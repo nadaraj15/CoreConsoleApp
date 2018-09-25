@@ -1,0 +1,11 @@
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\bin\Release\netcoreapp2.0\CoreConsoleApp.deps.json
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\bin\Release\netcoreapp2.0\CoreConsoleApp.runtimeconfig.json
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\bin\Release\netcoreapp2.0\CoreConsoleApp.runtimeconfig.dev.json
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\bin\Release\netcoreapp2.0\CoreConsoleApp.dll
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\bin\Release\netcoreapp2.0\CoreConsoleApp.pdb
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Release\netcoreapp2.0\CoreConsoleApp.csprojAssemblyReference.cache
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Release\netcoreapp2.0\CoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Release\netcoreapp2.0\CoreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Release\netcoreapp2.0\CoreConsoleApp.AssemblyInfo.cs
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Release\netcoreapp2.0\CoreConsoleApp.dll
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Release\netcoreapp2.0\CoreConsoleApp.pdb
