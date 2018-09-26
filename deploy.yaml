@@ -1,0 +1,36 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: SeleniunWeb-deployment
+spec:
+  selector:
+    matchLabels:
+      name: SeleniunWeb-pod
+  strategy:
+    type: RollingUpdate
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        name: SeleniunWeb-pod
+    spec:
+      containers:
+      - name: service-b
+        image: $ACR_DNS/SeleniunWeb:$BUILD_ID
+        ports:
+        - containerPort: 80
+          protocol: TCP
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: SeleniunWeb-k8sservice
+spec:
+  ports:
+    # the port that this service should serve on
+    - port: 80
+      protocol: TCP
+  # label keys and values that must match in order to receive traffic for this service
+  selector:
+    name: SeleniunWeb-pod

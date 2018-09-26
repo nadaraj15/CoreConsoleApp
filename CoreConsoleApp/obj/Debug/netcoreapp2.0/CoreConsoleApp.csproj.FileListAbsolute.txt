@@ -8,4 +8,4 @@ C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp
 C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.AssemblyInfo.cs
 C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.dll
 C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.pdb
-C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.csprojAssemblyReference.cache
+C:\Users\MAQUser\source\repos\CoreConsoleApp\CoreConsoleApp\bin\Debug\netcoreapp2.0\chromedriver.exe
